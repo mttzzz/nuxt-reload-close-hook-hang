@@ -1,0 +1,11 @@
+{
+  "name": "nuxt-reload-close-hook-hang",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev"
+  },
+  "dependencies": {
+    "nuxt": "^4.6.4"
+  }
+}
